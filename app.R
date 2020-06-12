@@ -43,7 +43,7 @@ ui <- fluidPage(
             h6("Resetting may take some time. The screen will flash briefly and jump back to the top when it is done."),
             h6("This app only searches through the markers column, so text in the comments column will not be used."),
             h6("In a case sensitive search, searching for ura is different from URA. In non-case sensitive, searching ura is the same as URA"),
-            h6("If you have comments, suggestions, or bugs, email kevyan123@gmail.com"),
+            h6("If you have comments, suggestions, or bugs, email kevyan123@gmail.com is this working?"),
         ),
 
         mainPanel(
